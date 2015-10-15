@@ -36,7 +36,7 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
-    //ril
+    //wocao
     [self configureTabBarAppearance];
     [self configureBaiduMapSetting];
     [self configureSVProgressHUDAppearance];
